@@ -1,9 +1,14 @@
 <div align="center">
   <img src="./github-header-image.png" alt="Header de Kenia Paíz" style="max-width: 100%; height: auto;" />
 </div>
+<h1 align="center">Hi there 👋 I am Kenia Paiz! Nice to meet you.😄</h1>
+<h3 align="center">I love web development, teaching and drinking coffee ☕👩🏻‍💻</h3>
 
-<h1 align="center">Hi there. I am Kenia Paiz! Nice to meet you.</h1>
-<h3 align="center">I love web development, teaching and drinking coffee ☕</h3>
+## 💫 About Me:
+🔭 I am currently working as a programming coach, imparting my knowledge of web development and working on different projects as a fullstack developer.<br>
+👯 I'm looking to collaborate with people willing to learn more every day.<br>
+🌱 I am currently learning Go, TypeScript, Python and Database.<br>
+😄 I like to share my knowledge, give a helping hand and work in a team.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
